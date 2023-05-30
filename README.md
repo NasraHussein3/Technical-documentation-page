@@ -1,6 +1,6 @@
-Technical-documentation-page
+# Technical-documentation-page
 
-Mini Project 3
+## Mini Project 3
 
 This is my Third project completed with the Responsive web design course. Here i utilised more advanced CSS learning and using variables.
 The screenshots of the projects are below:
